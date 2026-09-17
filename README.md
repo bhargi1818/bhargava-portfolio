@@ -1,6 +1,6 @@
 # Bhargava Sreekantham — Portfolio
 
-A dependency-free static portfolio for product engineering, applied AI, and mobile/cloud work.
+A dependency-free static portfolio focused on full-time product engineering roles across applied AI, mobile, and cloud systems.
 
 Live website: https://bhargava-portfolio-opal.vercel.app
 
