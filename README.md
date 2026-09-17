@@ -2,6 +2,8 @@
 
 A dependency-free static portfolio for product engineering, applied AI, and mobile/cloud work.
 
+Live website: https://bhargava-portfolio-opal.vercel.app
+
 ## Run locally
 
 Serve this directory with any static web server (for example, `python3 -m http.server 4173`).
@@ -18,4 +20,4 @@ Public product imagery: https://getmarbleapp.com/ (Marble product marketing asse
 
 ## Maintenance
 
-Edit the HTML pages and `style.css` directly. Keep metric qualifiers next to the metrics. Verify all pages on desktop and mobile before publishing. Attach a custom domain in Vercel only after confirming ownership, then add canonical URLs and a sitemap for the final origin.
+Edit the HTML pages and `style.css` directly. Keep metric qualifiers next to the metrics. Verify all pages on desktop and mobile before publishing. Attach a custom domain in Vercel only after confirming ownership, then update canonical URLs and sitemap entries to the new primary origin.
