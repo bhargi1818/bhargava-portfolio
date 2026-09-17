@@ -16,7 +16,7 @@ Import this dedicated repository into Vercel. Select Other as the framework, lea
 
 Six case studies summarize historical Marble engineering work, with explicit AI implementation attribution, measurement conditions, and limitations. No proprietary application source, private user data, credentials, or internal service addresses are included.
 
-Public product imagery: https://getmarbleapp.com/ (Marble product marketing asset). Treat it as product imagery, not a newly captured production screen.
+Public product imagery: https://getmarbleapp.com/ (Marble product marketing asset). The portfolio image was adapted using the built-in image-editing tool to remove the body profile from the background. Treat it as edited marketing imagery, not a newly captured production screen.
 
 ## Maintenance
 
